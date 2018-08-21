@@ -7,7 +7,10 @@ Neural Arithmetic Logic Unit (NALU) implementation in Tensorflow and some of its
 In different notebooks, I will explore the applications of this model in different tasks.
 
 -----------------------------------------------------------------
-
 The first task was to see if the network can extrapolate the addition, subtraction, multiplication, and division of numbers in the range it has not been trained on, which results in 0 error.
+
+-----------------------------------------------------------------
+The second task is to translate a series of calculations written in natural language into the mathematical results.
+
 -----------------------------------------------------------------
 This is a work in progress, and I will explore other tasks soon.
