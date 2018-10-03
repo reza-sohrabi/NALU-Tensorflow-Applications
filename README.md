@@ -11,6 +11,7 @@ The first task was to see if the network can extrapolate the addition, subtracti
 
 -----------------------------------------------------------------
 The second task is to translate a series of calculations written in natural language into the mathematical results.
+Unfortuantely the result is not satisfactory, so I will not add it here, but the data generation part might be useful.
 
 -----------------------------------------------------------------
 This is a work in progress, and I will explore other tasks soon.
